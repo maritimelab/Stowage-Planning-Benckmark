@@ -1,0 +1,9197 @@
+# Ship: bays stacks tiers tcgTollerance
+24 17 19 0.100
+## HydroPoints: displacement minLcg maxLcg metacenter
+32726 -3.770 -3.770 34.370
+37585 -3.770 -3.770 31.860
+42559 -3.780 -3.770 29.870
+47645 -3.790 -3.780 28.170
+52827 -3.800 -3.790 26.710
+58101 -3.830 -3.800 25.480
+63461 -3.870 -3.830 24.520
+68909 -3.950 -3.870 23.650
+74436 -4.050 -3.950 22.910
+80043 -4.180 -4.050 22.290
+85728 -4.340 -4.180 21.760
+91490 -4.540 -4.340 21.320
+97329 -4.760 -4.540 20.940
+103246 -5.010 -4.760 20.620
+109239 -5.290 -5.010 20.360
+115308 -5.600 -5.290 20.140
+121453 -5.930 -5.600 19.960
+127680 -6.280 -5.930 19.820
+133995 -6.640 -6.280 19.710
+140403 -7.010 -6.640 19.630
+146907 -7.380 -7.010 19.580
+153508 -7.760 -7.380 19.550
+160210 -8.150 -7.760 19.550
+167001 -8.520 -8.150 19.560
+173868 -8.880 -8.520 19.590
+180805 -9.210 -8.880 19.630
+187807 -9.510 -9.210 19.680
+194869 -9.790 -9.510 19.740
+201993 -10.030 -9.790 19.810
+209175 -10.240 -10.030 19.890
+216412 -10.430 -10.240 19.980
+223703 -10.580 -10.430 20.070
+231047 -10.710 -10.580 20.170
+238441 -10.810 -10.710 20.280
+245884 -10.880 -10.810 20.390
+253355 -10.920 -10.880 20.110
+260541 -10.920 -10.730 20.220
+267765 -10.730 -10.530 20.340
+275027 -10.530 -10.320 20.470
+282325 -10.320 -10.100 20.600
+289659 -10.100 -9.870 20.730
+291130 -9.870 -9.820 20.760
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+2416 138   0   0  12
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+1 0.500
+2 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+2637 116   9   0  10
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+2 0.500
+3 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+2638 116  -9   0  10
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+2 0.500
+3 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+2513  89  12   0   9
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+5 0.500
+6 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+2516  89 -12   0   9
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+5 0.500
+6 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+1348  60   9   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+7 0.500
+8 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+1293  60  -9   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+7 0.500
+8 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+722  30   0   0   1
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+9 0.500
+10 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+816  30  14   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+9 0.500
+10 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+816  30 -14   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+9 0.500
+10 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+824   8  11   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+11 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+824   8 -11   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+11 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+387   7  20   5  11
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+11 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+387   7 -20   5  11
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+11 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+776 -15   0   0   1
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+12 0.500
+13 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+1087 -15  15   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+12 0.500
+13 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+1087 -15 -15   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+12 0.500
+13 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+736 -37  12   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+14 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+733 -37 -12   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+14 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+360 -36  20   5  11
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+14 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+360 -36 -20   5  11
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+14 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+862 -60   0   0   1
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+15 0.500
+16 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+906 -62  13   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+15 0.500
+16 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+906 -62 -13   0   2
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+15 0.500
+16 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+607 -59  20   5  11
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+15 0.500
+16 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+675 -61 -20   5  11
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+15 0.500
+16 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+724 -99  14   1   5
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+17 0.500
+18 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+689 -99 -14   1   5
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+17 0.500
+18 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+1890 -120  15   2  10
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+19 0.500
+20 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+1890 -120 -15   2  10
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+19 0.500
+20 0.500
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+851 -142  14   8  13
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+21 1.000
+## Tanks: cap(ton) lcg tcg vcg_empty vcg_full
+851 -142 -14   8  13
+### BayCoverage: bay_idx(zero based) coverage(ratio)
+21 1.000
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+0 172.600 -6000.000 5718.000 54000.000 1431.000  15
+### BuoyancyPoints: buojancy
+248.180
+307.840
+373.720
+442.690
+516.570
+592.650
+668.700
+749.840
+828.930
+908.190
+981.600
+1052.020
+1117.470
+1178.100
+1231.460
+1276.810
+1311.730
+1338.460
+1365.250
+1393.610
+1422.060
+1455.190
+1489.100
+1525.960
+1567.360
+1612.590
+1662.380
+1718.060
+1778.280
+1846.190
+1921.580
+2003.740
+2095.470
+2194.790
+2303.610
+2423.960
+2550.640
+2688.570
+2838.900
+3001.610
+3174.520
+3211.570
+### Stack: index tcg
+0 0.000
+### Stack: index tcg
+1 0.000
+### Stack: index tcg
+2 0.000
+### Stack: index tcg
+3 0.000
+### Stack: index tcg
+4 0.000
+### Stack: index tcg
+5 0.000
+### Stack: index tcg
+6 0.000
+### Stack: index tcg
+7 0.000
+### Stack: index tcg
+8 0.000
+### Stack: index tcg
+9 0.000
+### Stack: index tcg
+10 0.000
+### Stack: index tcg
+11 0.000
+### Stack: index tcg
+12 0.000
+### Stack: index tcg
+13 0.000
+### Stack: index tcg
+14 0.000
+### Stack: index tcg
+15 0.000
+### Stack: index tcg
+16 0.000
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+1 153.100 -6000.000 5448.000 54000.000 1057.000  15
+### BuoyancyPoints: buojancy
+233.250
+277.060
+322.230
+369.200
+417.530
+466.230
+515.930
+565.080
+616.290
+666.860
+717.420
+768.060
+818.830
+870.630
+923.130
+977.850
+1032.970
+1091.170
+1152.010
+1215.550
+1282.230
+1353.180
+1427.280
+1505.390
+1589.440
+1677.640
+1771.800
+1871.400
+1977.720
+2089.280
+2208.710
+2333.720
+2466.140
+2605.760
+2753.510
+2907.220
+3065.220
+3231.240
+3404.420
+3585.490
+3774.900
+3813.240
+### Stack: index tcg
+0 0.000
+### Stack: index tcg
+1 0.000
+### Stack: index tcg
+2 0.000
+### Stack: index tcg
+3 0.000
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+13 0.000
+### Stack: index tcg
+14 0.000
+### Stack: index tcg
+15 0.000
+### Stack: index tcg
+16 0.000
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+2 139.800 -6000.000 5178.000 80000.000 1057.000  15
+### BuoyancyPoints: buojancy
+372.420
+440.190
+511.600
+585.630
+662.170
+740.570
+820.740
+903.310
+987.720
+1075.520
+1165.940
+1258.910
+1353.590
+1451.820
+1554.980
+1659.930
+1769.860
+1884.140
+2002.810
+2125.490
+2255.010
+2389.570
+2530.150
+2676.740
+2830.780
+2990.810
+3158.320
+3332.610
+3515.430
+3705.690
+3904.460
+4110.000
+4324.750
+4548.590
+4780.230
+5020.610
+5262.760
+5512.950
+5772.010
+6039.130
+6315.200
+6370.940
+### Stack: index tcg
+0 0.000
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+16 0.000
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+3 125.400 -7000.000 6031.000 100000.000 1057.000  15
+### BuoyancyPoints: buojancy
+579.090
+681.480
+788.120
+899.900
+1015.740
+1135.150
+1258.410
+1385.430
+1517.150
+1652.590
+1792.010
+1935.290
+2084.510
+2237.560
+2394.500
+2557.750
+2724.860
+2898.280
+3076.960
+3260.850
+3451.150
+3647.800
+3849.740
+4058.500
+4274.450
+4496.180
+4724.380
+4959.890
+5202.350
+5451.320
+5706.930
+5970.110
+6240.960
+6518.000
+6801.870
+7092.460
+7379.770
+7673.790
+7972.260
+8275.930
+8583.900
+8646.110
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+4 110.800 -5950.000 4981.000 208000.000 1057.000  15
+### BuoyancyPoints: buojancy
+765.950
+897.810
+1035.140
+1178.170
+1326.960
+1479.750
+1637.520
+1800.430
+1967.710
+2139.320
+2316.190
+2497.960
+2684.930
+2876.320
+3072.510
+3274.750
+3481.700
+3694.080
+3911.680
+4135.340
+4364.360
+4599.090
+4838.940
+5085.360
+5336.710
+5594.710
+5858.320
+6127.030
+6402.050
+6682.990
+6969.480
+7261.670
+7559.550
+7861.950
+8170.270
+8482.500
+8787.480
+9095.950
+9407.280
+9720.710
+10036.200
+10099.450
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 5.830 48.000 57.600 18.270
+#### Cell: tier reefer
+8 0
+7 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+5 96.200 -7000.000 6031.000 295000.000 1057.000  15
+### BuoyancyPoints: buojancy
+1041.700
+1214.530
+1393.660
+1580.110
+1772.250
+1969.990
+2172.680
+2381.210
+2594.860
+2812.850
+3036.860
+3265.000
+3498.340
+3736.880
+3979.400
+4227.260
+4479.730
+4736.980
+4998.770
+5264.980
+5536.590
+5812.420
+6092.650
+6377.220
+6665.940
+6959.840
+7257.080
+7558.690
+7863.610
+8172.980
+8485.640
+8801.770
+9121.340
+9442.410
+9767.210
+10092.790
+10406.070
+10719.940
+11034.520
+11349.780
+11664.230
+11727.140
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 18.270 94.500 141.120 26.100
+#### Cell: tier reefer
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+6 81.600 -8450.000 7481.000 393000.000 1560.000  15
+### BuoyancyPoints: buojancy
+1363.130
+1578.380
+1800.820
+2030.700
+2266.200
+2507.430
+2753.550
+3004.680
+3260.930
+3521.540
+3786.600
+4055.760
+4329.340
+4606.560
+4887.680
+5172.630
+5461.280
+5753.250
+6049.030
+6346.700
+6649.070
+6953.270
+7261.100
+7571.710
+7884.090
+8200.070
+8517.020
+8836.780
+9159.040
+9481.850
+9807.120
+10133.520
+10460.210
+10788.370
+11117.140
+11444.990
+11758.060
+12071.780
+12384.730
+12698.430
+13011.420
+13074.040
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+7 67.000 -8450.000 7862.000 465000.000 1560.000  15
+### BuoyancyPoints: buojancy
+1637.950
+1886.190
+2141.150
+2403.060
+2669.890
+2941.940
+3218.240
+3498.810
+3783.280
+4071.510
+4363.440
+4658.820
+4957.340
+5258.150
+5562.200
+5868.750
+6177.610
+6488.530
+6802.590
+7117.640
+7434.900
+7753.780
+8074.400
+8396.440
+8719.420
+9044.650
+9369.410
+9695.630
+10023.050
+10350.690
+10678.870
+11007.990
+11336.520
+11665.880
+11995.010
+12323.000
+12635.650
+12947.770
+13260.270
+13572.350
+13884.380
+13946.830
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 20.880 108.000 161.280 26.100
+#### Cell: tier reefer
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+8 52.400 -8450.000 8274.000 572000.000 1560.000  15
+### BuoyancyPoints: buojancy
+1903.870
+2181.840
+2465.980
+2755.630
+3049.480
+3347.540
+3649.140
+3953.880
+4261.620
+4572.000
+4885.440
+5200.730
+5518.270
+5837.190
+6158.190
+6480.810
+6803.860
+7128.570
+7455.340
+7781.880
+8109.710
+8437.820
+8767.440
+9097.110
+9427.020
+9758.270
+10088.560
+10419.840
+10750.950
+11082.300
+11413.900
+11745.560
+12077.280
+12408.680
+12740.090
+13070.730
+13384.430
+13698.060
+14011.690
+14324.900
+14638.800
+14701.540
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+9 37.700 -8450.000 8274.000 572000.000 1560.000  15
+### BuoyancyPoints: buojancy
+2108.480
+2406.220
+2709.200
+3016.240
+3326.430
+3639.790
+3955.390
+4273.270
+4592.880
+4914.040
+5237.270
+5560.820
+5885.920
+6211.720
+6538.190
+6865.600
+7192.150
+7520.410
+7849.360
+8177.480
+8506.360
+8834.840
+9164.400
+9493.480
+9822.650
+10152.200
+10481.340
+10810.930
+11139.780
+11469.160
+11798.650
+12127.930
+12457.530
+12786.270
+13115.700
+13444.200
+13755.020
+14066.060
+14376.590
+14687.420
+14998.820
+15061.030
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 0
+1 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 0
+1 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+10 23.100 -8450.000 8450.000 610000.000 1560.000  15
+### BuoyancyPoints: buojancy
+2280.230
+2593.140
+2910.080
+3230.350
+3552.290
+3876.850
+4201.800
+4528.700
+4855.590
+5183.450
+5512.020
+5840.430
+6169.610
+6499.010
+6827.790
+7156.950
+7485.330
+7815.230
+8144.900
+8474.060
+8802.940
+9132.580
+9461.570
+9790.760
+10120.420
+10449.390
+10779.110
+11108.130
+11437.090
+11766.950
+12095.860
+12425.720
+12754.760
+13083.590
+13413.510
+13741.410
+14052.410
+14362.500
+14672.780
+14983.730
+15294.330
+15356.480
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+11 8.400 -8450.000 8450.000 625000.000 1762.000  15
+### BuoyancyPoints: buojancy
+2421.850
+2746.700
+3074.890
+3404.980
+3734.440
+4066.580
+4398.330
+4729.760
+5061.180
+5393.590
+5725.190
+6057.370
+6388.810
+6721.250
+7052.280
+7383.710
+7715.080
+8046.500
+8379.200
+8709.850
+9040.990
+9372.890
+9704.130
+10036.340
+10367.500
+10698.730
+11030.710
+11361.980
+11693.950
+12025.330
+12356.490
+12688.610
+13019.910
+13351.750
+13683.170
+14013.310
+14326.210
+14638.190
+14951.130
+15263.260
+15576.550
+15639.080
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+12 -6.200 -8450.000 8450.000 625000.000 1762.000  15
+### BuoyancyPoints: buojancy
+2479.770
+2808.590
+3139.170
+3471.670
+3802.730
+4134.900
+4467.470
+4798.910
+5131.130
+5462.750
+5794.360
+6126.550
+6458.000
+6790.440
+7121.480
+7452.910
+7784.280
+8115.700
+8448.410
+8779.060
+9110.190
+9442.090
+9773.340
+10105.550
+10436.710
+10767.940
+11099.930
+11431.200
+11763.170
+12094.540
+12426.510
+12757.830
+13089.120
+13420.970
+13752.400
+14083.320
+14395.330
+14707.230
+15020.080
+15332.130
+15645.340
+15707.870
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+13 -20.900 -8420.000 8450.000 625000.000 1762.000  15
+### BuoyancyPoints: buojancy
+2477.380
+2804.270
+3133.410
+3463.210
+3792.130
+4122.660
+4452.390
+4782.190
+5111.590
+5441.500
+5770.840
+6100.130
+6429.940
+6759.480
+7088.870
+7418.040
+7747.140
+8076.290
+8406.100
+8735.110
+9063.980
+9393.610
+9722.590
+10052.530
+10381.420
+10710.390
+11040.100
+11369.100
+11698.800
+12027.910
+12357.670
+12686.660
+13015.680
+13345.260
+13674.420
+14003.140
+14312.930
+14623.290
+14933.370
+15243.260
+15554.310
+15616.400
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+14 -35.600 -8002.000 8450.000 625000.000 2262.000  15
+### BuoyancyPoints: buojancy
+2489.470
+2818.600
+3149.770
+3481.600
+3813.240
+4145.810
+4478.020
+4809.860
+5141.290
+5473.690
+5805.300
+6137.070
+6468.920
+6800.490
+7132.380
+7463.800
+7795.160
+8126.570
+8458.410
+8789.910
+9121.040
+9452.930
+9784.170
+10116.370
+10447.520
+10778.750
+11110.720
+11441.980
+11773.950
+12105.310
+12436.880
+12768.580
+13099.870
+13431.700
+13763.120
+14093.640
+14406.030
+14718.300
+15030.730
+15342.760
+15655.500
+15718.470
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+15 -50.200 -7584.000 8450.000 625000.000 1762.000  15
+### BuoyancyPoints: buojancy
+2424.350
+2749.560
+3077.230
+3406.220
+3735.440
+4065.050
+4395.400
+4724.580
+5053.750
+5383.900
+5713.250
+6043.170
+6372.360
+6701.680
+7031.320
+7360.500
+7689.610
+8018.780
+8348.360
+8677.620
+9006.500
+9336.140
+9665.140
+9994.800
+10323.990
+10652.970
+10982.700
+11311.710
+11641.140
+11970.550
+12299.460
+12629.320
+12958.360
+13287.950
+13617.120
+13945.000
+14255.740
+14565.560
+14876.340
+15186.310
+15496.600
+15559.270
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+0 1
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+1 1
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+16 -64.800 -7559.000 8450.000 625000.000 1762.000  15
+### BuoyancyPoints: buojancy
+2283.310
+2601.140
+2923.280
+3247.680
+3572.640
+3898.750
+4226.280
+4552.880
+4879.670
+5207.320
+5534.400
+5861.940
+6188.870
+6515.920
+6843.300
+7170.210
+7497.080
+7823.980
+8151.300
+8478.310
+8804.930
+9132.320
+9459.050
+9785.990
+10113.390
+10440.110
+10767.580
+11094.340
+11421.050
+11748.650
+12075.310
+12402.910
+12729.690
+13057.020
+13383.940
+13709.580
+14018.380
+14326.260
+14635.080
+14943.090
+15251.400
+15313.100
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 24.100 216.000 259.200 0.000
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+0 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+17 -81.800 -7559.000 8450.000 560000.000 5043.000  15
+### BuoyancyPoints: buojancy
+2514.060
+2915.720
+3326.840
+3746.410
+4171.240
+4600.610
+5033.890
+5468.870
+5906.820
+6345.590
+6786.040
+7226.620
+7667.800
+8109.370
+8551.210
+8993.060
+9434.720
+9876.560
+10318.920
+10760.980
+11202.480
+11644.780
+12086.640
+12529.330
+12971.090
+13412.710
+13855.130
+14297.030
+14739.420
+15181.460
+15623.000
+16065.590
+16507.520
+16949.760
+17391.860
+17832.100
+18250.200
+18667.490
+19085.550
+19502.920
+19920.420
+20003.980
+### Stack: index tcg
+0 0.000
+### Stack: index tcg
+1 0.000
+### Stack: index tcg
+2 0.000
+### Stack: index tcg
+3 0.000
+### Stack: index tcg
+4 0.000
+### Stack: index tcg
+5 0.000
+### Stack: index tcg
+6 0.000
+### Stack: index tcg
+7 0.000
+### Stack: index tcg
+8 0.000
+### Stack: index tcg
+9 0.000
+### Stack: index tcg
+10 0.000
+### Stack: index tcg
+11 0.000
+### Stack: index tcg
+12 0.000
+### Stack: index tcg
+13 0.000
+### Stack: index tcg
+14 0.000
+### Stack: index tcg
+15 0.000
+### Stack: index tcg
+16 0.000
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+18 -98.700 -7645.000 8450.000 466000.000 4970.000  15
+### BuoyancyPoints: buojancy
+1333.900
+1589.990
+1858.380
+2137.830
+2425.880
+2721.000
+3022.160
+3327.650
+3637.590
+3950.390
+4265.960
+4583.180
+4902.340
+5222.550
+5542.490
+5864.470
+6185.830
+6507.950
+6830.490
+7152.940
+7474.970
+7796.960
+8119.970
+8442.250
+8765.180
+9087.410
+9409.510
+9732.570
+10054.670
+10377.790
+10699.960
+11022.190
+11345.280
+11667.260
+11990.440
+12311.710
+12617.010
+12923.010
+13228.190
+13534.150
+13839.540
+13900.650
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 21.490 192.000 230.400 2.610
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+1 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+19 -113.100 -7807.000 8450.000 346000.000 1275.000  15
+### BuoyancyPoints: buojancy
+740.970
+900.530
+1076.310
+1271.830
+1490.710
+1729.370
+1983.920
+2250.990
+2529.040
+2815.590
+3109.780
+3409.730
+3715.670
+4025.080
+4337.540
+4653.620
+4971.640
+5291.100
+5612.530
+5934.860
+6257.510
+6580.940
+6905.370
+7229.870
+7554.230
+7879.500
+8203.840
+8529.140
+8853.480
+9178.020
+9503.250
+9827.710
+10153.040
+10477.290
+10801.880
+11126.290
+11435.420
+11745.180
+12054.030
+12362.790
+12672.500
+12734.300
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+2 1
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 1
+5 1
+4 1
+3 1
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+20 -127.500 -7993.000 8450.000 240000.000 1275.000  15
+### BuoyancyPoints: buojancy
+462.570
+544.070
+632.680
+734.560
+854.570
+992.020
+1150.860
+1336.380
+1544.260
+1771.370
+2015.880
+2274.970
+2547.350
+2828.750
+3118.530
+3414.670
+3716.720
+4022.830
+4333.320
+4646.270
+4962.950
+5280.440
+5600.970
+5922.280
+6244.870
+6568.010
+6892.320
+7216.200
+7540.860
+7865.700
+8189.890
+8514.650
+8839.960
+9164.900
+9489.120
+9813.260
+10124.810
+10435.210
+10745.980
+11056.930
+11368.060
+11429.450
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 18.880 168.000 201.600 5.220
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+2 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 1
+11 1
+10 1
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+21 -141.900 -7729.000 8000.000 138000.000 1275.000  15
+### BuoyancyPoints: buojancy
+330.420
+373.680
+416.010
+458.140
+501.510
+545.640
+597.800
+659.300
+733.250
+824.460
+942.770
+1090.540
+1263.120
+1462.280
+1688.230
+1933.350
+2192.850
+2462.480
+2742.790
+3030.210
+3325.620
+3626.430
+3932.770
+4242.550
+4557.040
+4874.290
+5193.180
+5514.880
+5838.550
+6163.380
+6488.790
+6814.600
+7142.130
+7468.470
+7796.080
+8122.280
+8437.460
+8753.280
+9068.170
+9383.460
+9697.640
+9760.690
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 16.270 144.000 172.800 7.830
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+3 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+22 -156.600 -4915.000 5000.000 39000.000 1275.000  15
+### BuoyancyPoints: buojancy
+212.250
+242.640
+271.350
+298.420
+323.380
+344.950
+364.730
+383.460
+398.710
+412.950
+426.800
+441.670
+463.750
+499.910
+555.570
+631.680
+744.510
+891.460
+1064.620
+1268.640
+1498.740
+1745.710
+2007.790
+2279.730
+2562.490
+2854.710
+3153.250
+3459.520
+3770.670
+4088.570
+4409.890
+4735.130
+5062.850
+5394.660
+5727.360
+6060.940
+6388.180
+6715.610
+7040.900
+7367.520
+7693.890
+7758.110
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+2 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+4 13.660 120.000 144.000 10.440
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+4 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 11.050 96.000 115.200 13.050
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+5 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+#### BelowDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+6 8.440 72.000 86.400 15.660
+#### Cell: tier reefer
+8 0
+7 0
+6 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+## Bay: index lcg minShear maxShear maxBending constWeight constWeighVcg
+23 -172.100 -4915.000 5000.000 39000.000 1375.000  15
+### BuoyancyPoints: buojancy
+21.440
+24.860
+27.970
+30.780
+33.580
+35.780
+37.650
+39.530
+40.780
+42.030
+42.660
+43.280
+43.910
+44.850
+45.780
+48.900
+57.310
+70.700
+91.860
+145.650
+222.720
+333.210
+491.290
+684.730
+904.270
+1143.140
+1400.310
+1670.350
+1953.950
+2248.390
+2553.700
+2867.470
+3189.060
+3519.730
+3854.940
+4196.560
+4535.810
+4877.800
+5222.000
+5566.980
+5910.540
+5980.250
+### Stack: index tcg
+0 -19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+1 -17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+2 -14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+3 -12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+4 -9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+5 -7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+1 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+6 -4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+7 -2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+8 0.000
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+9 2.430
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+10 4.860
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+3 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+11 7.290
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+12 9.720
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+13 12.150
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+14 14.580
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+15 17.010
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
+### Stack: index tcg
+16 19.440
+#### AboveDeck: identifier maxHeight maxWeight20 maxWeight40 vcg
+5 23.490 121.500 181.440 26.100
+#### Cell: tier reefer
+18 0
+17 0
+16 0
+15 0
+14 0
+13 0
+12 0
+11 0
+10 0
